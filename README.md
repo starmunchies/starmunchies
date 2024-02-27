@@ -1,8 +1,6 @@
 <h1 align="center">Heyo 👋, I'm Matthew</h1>
 <h3 align="center">I'm a developer from Ireland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=starmunchies&label=Profile%20views&color=0e75b6&style=flat" alt="starmunchies" /> </p>
-
 - 🔭 I’m currently working on **GreenPath Forms**
 
 - 🌱 I’m currently learning **Xstates,React,React-flow**
