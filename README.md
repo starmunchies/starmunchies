@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Form management systems, Aws,Lambda Step Functions**
 
-- 📫 How to reach me **matthew.joe.russell@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
